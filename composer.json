@@ -1,0 +1,9 @@
+{
+    "name": "denis909/basic-app-ru",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Denis909\\BasicAppRu\\": "src/"
+        }
+    }
+}
